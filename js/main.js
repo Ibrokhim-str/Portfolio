@@ -115,7 +115,8 @@ var nav_a = $("#home div.menu a");
         $("html, body").animate({
             scrollTop: t
         }, 1000)
-    })
+    });
+
 
 // when press links in scroll_nav, it automatically returns its page
 var min_nav = $("#home div.scroll_nav a");

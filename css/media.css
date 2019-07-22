@@ -237,6 +237,32 @@ div.contact_form {
 	width: 90%;
 }	
 
+div.home_tittle h1 {
+	font-size: 28px;
+}
+div.about_tittle h1 {
+	font-size: 28px;
+}
+div.portfolio_tittle h1 {
+	font-size: 28px;
+}
+div.service_tittle h1 {
+	font-size: 28px;
+}
+div.service2_tittle h1 {
+	font-size: 28px;
+}
+div.price_tittle h1 {
+	font-size: 28px;
+}
+div.team div.team_tittle h1{
+	font-size: 28px;
+}
+div.contact_tittle h1 {
+	font-size: 28px;
+}
+
+
 }
 
 
